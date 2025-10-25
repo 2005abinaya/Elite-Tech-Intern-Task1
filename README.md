@@ -15,7 +15,11 @@ A comprehensive Java utility for advanced file operations with robust error hand
 - Buffered I/O operations
 
  📸 Demo Output
- 
+ FILE HANDLING UTILITY - TASK 1
+==============================
+✓ File written: sample.txt
+✓ Text appended to: sample.txt
+✓ File operations completed successfully!
   🛠 Usage
 java
 // Write file
